@@ -1,2 +1,2 @@
-COMP1023 POTATO Artifact
+COMP1023 DevOps Artifact
 Jeremy Chong was here
